@@ -104,11 +104,11 @@
 
 
 // var arr = [24, 53, 78, 91, 12];
-// var largest = arr[0];
+// var smallest = arr[0];
 
 // for (var i = 1; i < arr.length; i++) {
-//     if (arr[i] < largest) {
-//         largest = arr[i];
+//     if (arr[i] < smallest) {
+//         smallest = arr[i];
 //     }
 // }
 
